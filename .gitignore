@@ -1,0 +1,5 @@
+# ignore temporary files
+*.swp
+
+# ignore the share directory
+**/share/**
