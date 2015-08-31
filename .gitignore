@@ -1,5 +1,6 @@
 # ignore temporary files
 *.swp
+**/.DS_Store
 
 # ignore the share directory
 **/share/**
